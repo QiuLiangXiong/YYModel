@@ -601,20 +601,19 @@ EEE MMM dd HH:mm:ss Z yyyy
 
 文档
 ==============
-你可以在 [CocoaDocs](http://cocoadocs.org/docsets/YYModel/) 查看在线 API 文档，也可以用 [appledoc](https://github.com/tomaz/appledoc) 本地生成文档。
+你可以在 [CocoaDocs](http://cocoadocs.org/docsets/UICollectionView-QLX/) 查看在线 API 文档，也可以用 [appledoc](https://github.com/tomaz/appledoc) 本地生成文档。
 
 
 系统要求
 ==============
-该项目最低支持 `iOS 6.0` 和 `Xcode 8.0`。
+该项目最低支持 `iOS 7.0` 和 `Xcode 8.0`。
 
 
 许可证
 ==============
-YYModel 使用 MIT 许可证，详情见 LICENSE 文件。
+UIColllectionView 使用 MIT 许可证，详情见 LICENSE 文件。
 
 相关链接
 ==============
 
-[iOS JSON 模型转换库评测](https://blog.ibireme.com/2015/10/23/ios_model_framework_benchmark/)
 
